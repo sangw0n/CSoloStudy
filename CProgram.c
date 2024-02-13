@@ -1,10 +1,10 @@
 // Title - C 프로그램의 구조와 데이터 출력 방법 / p. 24~35
-// C Main Function
 
 // Printf 같은 걸 쓰기 위해서
 // 이걸 적고 프로그램에 가져온디
 #include<stdio.h> 
 
+// C Main Function
 int main(void)
 {
 	// [;] : 문장을 끝내겠다
