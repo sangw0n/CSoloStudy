@@ -5,7 +5,7 @@
 #include<stdio.h> 
 
 // C Main Function
-int main(void)
+int Cmain(void)
 {
 	// [;] : 문장을 끝내겠다
 	//Printf() 함수 : 문자열을 화면에 출력

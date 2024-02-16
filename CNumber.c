@@ -12,7 +12,7 @@
 */
 #include<stdio.h>
 
-int main(void)
+int Cmain(void)
 {
 	// 지수 표기법 
 	// 실수e+지수: 실수 * 10의 거듭제곱
